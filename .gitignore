@@ -1,0 +1,13 @@
+# Build artifacts (never publish)
+_BUNDLE_REPORT.md
+.DS_Store
+node_modules/
+*.log
+
+# Local state (was already excluded from the bundle, but belt-and-suspenders)
+corpus/
+extractions/
+state.sqlite
+mo-context.md
+.env
+.env.*
