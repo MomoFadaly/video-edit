@@ -23,7 +23,7 @@ Or clone this repo into your Claude skills directory:
 git clone https://github.com/MomoFadaly/video-edit.git ~/.claude/skills/video-edit
 ```
 
-Or download the zip from [fadaly.net/skills/video-edit](https://fadaly.net/skills/video-edit) and extract into `~/.claude/skills/`.
+Or download the zip from [fadaly.net/skills/video-edit](https://fadaly.net/skills/video-edit) (the per-skill landing page on fadaly.net) and extract into `~/.claude/skills/`.
 
 ## What's in the bundle
 
@@ -67,4 +67,4 @@ You are free to use, modify, redistribute, and build on this skill. Attribution 
 
 [Mo Fadaly](https://fadaly.net) — AI intrapreneur, runs Claude skills in production.
 
-This is one of a series. See the [full skill catalog at fadaly.net/skills](https://fadaly.net/skills).
+This is one of a series. See the [full catalog at fadaly.net/work](https://fadaly.net/work).
